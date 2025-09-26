@@ -1,6 +1,6 @@
 # Klyra
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matiastonello92/Klyra-cloudflare)
 
 Klyra is a comprehensive, scalable, multi-tenant operational management platform designed for businesses with multiple locations. It provides a unified interface for managing inventory, suppliers, purchase orders, HACCP compliance, incident reporting, and daily tasks. Built on a serverless architecture with Cloudflare Workers and Supabase, Klyra ensures real-time data, robust security through Row Level Security (RLS), and high performance. The platform features a modular design, allowing businesses to streamline complex workflows, gain actionable insights through an integrated analytics dashboard, and maintain rigorous audit trails for all significant actions. Its clean, minimalist interface is designed for efficiency and ease of use, ensuring a seamless user experience across all devices.
 
@@ -90,7 +90,7 @@ The project is structured as a monorepo with the frontend and backend code separ
 
 This project is designed for seamless deployment to Cloudflare Pages (for the frontend) and Cloudflare Workers (for the API).
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/matiastonello92/Klyra-cloudflare)
 
 ### Manual Deployment Steps
 
