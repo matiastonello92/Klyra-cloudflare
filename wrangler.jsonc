@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-klyra-ops-platform-5f785b3b-0322-447a-8ec6-90a767d0fc44",
+	"name": "klyratestcloudflare",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
